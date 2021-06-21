@@ -1,0 +1,56 @@
+﻿  GameObject.cpp
+C:\Users\kuncg\source\repos\New folder\GameObject.cpp(40,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuncg\source\repos\New folder\GameObject.cpp(41,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuncg\source\repos\New folder\GameObject.cpp(53,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuncg\source\repos\New folder\GameObject.cpp(54,15): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuncg\source\repos\New folder\GameObject.cpp(62,39): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuncg\source\repos\New folder\GameObject.cpp(63,39): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuncg\source\repos\New folder\GameObject.cpp(64,45): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+C:\Users\kuncg\source\repos\New folder\GameObject.cpp(65,45): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  main.cpp
+C:\Users\kuncg\source\repos\New folder\main.cpp(98,106): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(98,106): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(99,33): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(99,97): warning C4129: '/': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(99,97): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(99,97): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(100,33): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(100,97): warning C4129: '/': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(360,104): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(360,104): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(361,44): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(361,107): warning C4129: '/': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(361,107): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(361,107): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(362,33): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(362,95): warning C4129: '/': unrecognized character escape sequence
+  Game.cpp
+C:\Users\kuncg\source\repos\New folder\NPC_move.h(22,1): warning C4144: '>': relational expression as switch expression
+C:\Users\kuncg\source\repos\New folder\NPC_move.h(34,1): warning C4144: '>': relational expression as switch expression
+C:\Users\kuncg\source\repos\New folder\NPC_move.h(32,1): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\kuncg\source\repos\New folder\NPC_move.h(43,1): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\kuncg\source\repos\New folder\NPC_move.h(149,1): warning C4144: '>': relational expression as switch expression
+C:\Users\kuncg\source\repos\New folder\NPC_move.h(163,1): warning C4144: '>': relational expression as switch expression
+C:\Users\kuncg\source\repos\New folder\NPC_move.h(161,1): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\kuncg\source\repos\New folder\NPC_move.h(172,1): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\kuncg\source\repos\New folder\Game.cpp(169,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\kuncg\source\repos\New folder\Game.cpp(170,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Map.cpp
+  meni.cpp
+C:\Users\kuncg\source\repos\New folder\NPC_move.h(22,1): warning C4144: '>': relational expression as switch expression
+C:\Users\kuncg\source\repos\New folder\NPC_move.h(34,1): warning C4144: '>': relational expression as switch expression
+C:\Users\kuncg\source\repos\New folder\NPC_move.h(32,1): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\kuncg\source\repos\New folder\NPC_move.h(43,1): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\kuncg\source\repos\New folder\NPC_move.h(149,1): warning C4144: '>': relational expression as switch expression
+C:\Users\kuncg\source\repos\New folder\NPC_move.h(163,1): warning C4144: '>': relational expression as switch expression
+C:\Users\kuncg\source\repos\New folder\NPC_move.h(161,1): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+C:\Users\kuncg\source\repos\New folder\NPC_move.h(172,1): warning C4809: switch statement has redundant 'default' label; all possible 'case' labels are given
+  TextureManager.cpp
+  Tvector.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\kuncg\source\repos\New folder\meni.cpp(155): warning C4715: 'meni::stanje': not all control paths return a value
+C:\Users\kuncg\source\repos\New folder\Game.cpp(344): warning C4715: 'Game::level': not all control paths return a value
+  All 202 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  sdlGejm.vcxproj -> C:\Users\kuncg\source\repos\New folder\Release\sdlGejm.exe
