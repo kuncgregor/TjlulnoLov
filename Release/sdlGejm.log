@@ -8,22 +8,22 @@ C:\Users\kuncg\source\repos\New folder\GameObject.cpp(63,39): warning C4244: 're
 C:\Users\kuncg\source\repos\New folder\GameObject.cpp(64,45): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
 C:\Users\kuncg\source\repos\New folder\GameObject.cpp(65,45): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
   main.cpp
-C:\Users\kuncg\source\repos\New folder\main.cpp(98,106): warning C4129: '_': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(98,106): warning C4129: ' ': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(99,33): warning C4129: ' ': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(99,97): warning C4129: '/': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(99,97): warning C4129: '_': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(99,97): warning C4129: ' ': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(100,33): warning C4129: '_': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(100,97): warning C4129: '/': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(360,104): warning C4129: '_': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(360,104): warning C4129: ' ': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(361,44): warning C4129: ' ': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(361,107): warning C4129: '/': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(361,107): warning C4129: '_': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(361,107): warning C4129: ' ': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(362,33): warning C4129: '_': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(362,95): warning C4129: '/': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(105,106): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(105,106): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(106,33): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(106,97): warning C4129: '/': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(106,97): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(106,97): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(107,33): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(107,97): warning C4129: '/': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(407,104): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(407,104): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(408,44): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(408,107): warning C4129: '/': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(408,107): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(408,107): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(409,33): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(409,95): warning C4129: '/': unrecognized character escape sequence
   Game.cpp
 C:\Users\kuncg\source\repos\New folder\NPC_move.h(22,1): warning C4144: '>': relational expression as switch expression
 C:\Users\kuncg\source\repos\New folder\NPC_move.h(34,1): warning C4144: '>': relational expression as switch expression
@@ -51,6 +51,6 @@ C:\Users\kuncg\source\repos\New folder\NPC_move.h(172,1): warning C4809: switch 
   Previous IPDB not found, fall back to full compilation.
 C:\Users\kuncg\source\repos\New folder\meni.cpp(155): warning C4715: 'meni::stanje': not all control paths return a value
 C:\Users\kuncg\source\repos\New folder\Game.cpp(344): warning C4715: 'Game::level': not all control paths return a value
-  All 202 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  All 215 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
   Finished generating code
   sdlGejm.vcxproj -> C:\Users\kuncg\source\repos\New folder\Release\sdlGejm.exe

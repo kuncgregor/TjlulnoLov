@@ -1,21 +1,18 @@
 ﻿  main.cpp
-C:\Users\kuncg\source\repos\New folder\main.cpp(98,106): warning C4129: '_': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(98,106): warning C4129: ' ': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(99,33): warning C4129: ' ': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(99,97): warning C4129: '/': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(99,97): warning C4129: '_': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(99,97): warning C4129: ' ': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(100,33): warning C4129: '_': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(100,97): warning C4129: '/': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(306,26): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
-C:\Users\kuncg\source\repos\New folder\main.cpp(335,34): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
-C:\Users\kuncg\source\repos\New folder\main.cpp(359,42): warning C4566: character represented by universal-character-name '\u010D' cannot be represented in the current code page (1252)
-C:\Users\kuncg\source\repos\New folder\main.cpp(360,104): warning C4129: '_': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(360,104): warning C4129: ' ': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(361,44): warning C4129: ' ': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(361,107): warning C4129: '/': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(361,107): warning C4129: '_': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(361,107): warning C4129: ' ': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(362,33): warning C4129: '_': unrecognized character escape sequence
-C:\Users\kuncg\source\repos\New folder\main.cpp(362,95): warning C4129: '/': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(105,106): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(105,106): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(106,33): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(106,97): warning C4129: '/': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(106,97): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(106,97): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(107,33): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(107,97): warning C4129: '/': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(407,104): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(407,104): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(408,44): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(408,107): warning C4129: '/': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(408,107): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(408,107): warning C4129: ' ': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(409,33): warning C4129: '_': unrecognized character escape sequence
+C:\Users\kuncg\source\repos\New folder\main.cpp(409,95): warning C4129: '/': unrecognized character escape sequence
   sdlGejm.vcxproj -> C:\Users\kuncg\source\repos\New folder\Debug\sdlGejm.exe

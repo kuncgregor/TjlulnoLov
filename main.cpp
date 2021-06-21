@@ -6,9 +6,16 @@
 #include "Map.h"
 #include "Tvector.h"
 #include "Keyboard.h"
+#include <fstream>
 #include <iostream>
 #include <ctime>
 #include <cstdlib>
+#include <string>
+#include <cstdlib>
+#include <cstring>
+#include <cstdio>
+#include <stdio.h>
+#include <string>
 
 
 Game* lvl1 = nullptr;
@@ -131,12 +138,18 @@ void riplej() {
 
 }
 
+void tocke() {
+
+}
+
 
 int main(int argc, char* args[]) {
     int tocke = 0;
     std::cout << "Vpisi ime :         (primer: Plejr 1)" << std::endl;
     char ime[10];
     gets_s(ime);
+    char ttemp[3];
+    char iks;
 
     //GameObject mama("slikce/Old_woman.png", 0, 0);
     //GameObject igralec("slikce/Woodcutter.png", 0.00, 0.00);
@@ -176,8 +189,23 @@ int main(int argc, char* args[]) {
         }
 
         if (mejn->stanje() == 3) {
-            SDL_QUIT;
-            return  0;
+            std::ifstream ofs("tocke.txt");
+            if (ofs.is_open()) {
+                char x[3];
+                while (ofs >> x) {
+                    strcpy_s(ttemp, x);
+                    
+         
+                }
+            }ofs.close();
+            std::cout << "\n" << "Scores : \n" << ime << " :" << ttemp << "\n" << "\n";
+            std::cout << "Za izhod pritisnite: X";
+            std::cin >> iks;
+            if (iks == 'x' || iks == 'X'){
+                return 0;
+                SDL_QUIT;
+            }
+            
         }
         
 
@@ -304,6 +332,14 @@ int main(int argc, char* args[]) {
             std::cout << "lvl1: " << std::endl;
 
             std::cout << " tocke = 3" << std::endl;
+
+
+            std::ofstream ofs;
+            ofs.open("tocke.txt", std::ofstream::out | std::ofstream::trunc);
+            ofs << tocke;
+            ofs.close();
+
+           
             
             lvl2->init("lvl2", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, 800, 640, false, 0, 2);
             
@@ -333,6 +369,11 @@ int main(int argc, char* args[]) {
                     std::cout << "lvl2: " << std::endl;
 
                     std::cout << " tocke = 6" << std::endl;
+
+                    std::ofstream ofs;
+                    ofs.open("tocke.txt", std::ofstream::out | std::ofstream::trunc);
+                    ofs << tocke;
+                    ofs.close();
                     
                     lvl3->init("lvl3", SDL_WINDOWPOS_CENTERED, SDL_WINDOWPOS_CENTERED, 800, 640, false, 0, 3);
                     lvl2->okno();
@@ -357,6 +398,12 @@ int main(int argc, char* args[]) {
                             std::cout << "lvl3: " << std::endl;
 
                             std::cout << " tocke = 12" << std::endl;
+
+                            std::ofstream ofs;
+                            ofs.open("tocke.txt", std::ofstream::out | std::ofstream::trunc);
+                            ofs << tocke;
+                            ofs.close();
+
                             std::cout << " __________   _____      _____     ________    _____    \n"<<" \____    /  /     \    /  _  \   /  _____/   /  _  \   \n"<<
                                            "   /     /  /  \ /  \  /  /_\  \ /   \  ___  /  /_\  \  \n"<< "  /     /_ /    Y    \/    |    \\    \_\  \/    |    \ \n"<<
                                 " /_______ \\____|__  /\____|__  / \______  /\____|__  / \n"<<"         \/        \/         \/         \/         \/  \n";
