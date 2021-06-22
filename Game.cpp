@@ -166,8 +166,8 @@ void Game::update(int lv, bool repl) {
 	
 	pozicije a;
 	std::ofstream plejr("igralec.bin", std::ios::binary | std::ios::app);
-	x = igralec->GetOriginqX();
-	y = igralec->GetOriginqY();
+	a.x = igralec->GetOriginqX();
+	a.y = igralec->GetOriginqY();
 	plejr.write((char*)&a, sizeof(a));
 	plejr.close();
 }
